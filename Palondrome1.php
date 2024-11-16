@@ -9,7 +9,7 @@ function len($str){
 }
 
 
-function Palondrome($str){
+function palindrome($str){
 $length = len($str);
 
 
